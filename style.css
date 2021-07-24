@@ -1,0 +1,25 @@
+p{
+    color: #FF0000;
+    font-size: 25px;
+}
+
+h3{
+    color: crimson;
+}
+
+h2{
+    color: darkblue;
+    font-weight: bolder;
+}
+
+#mumma{
+    height: 430px;
+    width: 490px;
+    border-radius: 10px;
+}
+
+#papa{
+    height: 430px;
+    width: 530px;
+    border-radius: 10px;
+}
